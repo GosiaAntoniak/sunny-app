@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GosiaAntoniak/sunny-app.git/static/css/main.af3d2a6f.css",
+    "main.js": "/GosiaAntoniak/sunny-app.git/static/js/main.4633fd00.js",
+    "static/js/787.a035f530.chunk.js": "/GosiaAntoniak/sunny-app.git/static/js/787.a035f530.chunk.js",
+    "index.html": "/GosiaAntoniak/sunny-app.git/index.html",
+    "main.af3d2a6f.css.map": "/GosiaAntoniak/sunny-app.git/static/css/main.af3d2a6f.css.map",
+    "main.4633fd00.js.map": "/GosiaAntoniak/sunny-app.git/static/js/main.4633fd00.js.map",
+    "787.a035f530.chunk.js.map": "/GosiaAntoniak/sunny-app.git/static/js/787.a035f530.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af3d2a6f.css",
+    "static/js/main.4633fd00.js"
+  ]
+}
